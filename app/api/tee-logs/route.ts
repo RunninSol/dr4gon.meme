@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server';
 
+// Force dynamic rendering - don't statically generate this API route
+export const dynamic = 'force-dynamic';
+
 // Generate random tweet ID
 function generateTweetId(): string {
   return (Math.floor(Math.random() * 900000000000000000) + 1000000000000000000).toString();
