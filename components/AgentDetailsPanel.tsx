@@ -55,7 +55,7 @@ export default function AgentDetailsPanel({ isOpen, onClose, data }: AgentDetail
               </div>
               <div className="flex-1">
                 <h3 className="text-2xl font-bold text-gray-900 font-grotesk">{data.title}</h3>
-                <p className="text-sm text-gray-500 font-mono mt-1">Created December 20, 2024</p>
+                <p className="text-sm text-gray-500 font-mono mt-1">Created October 14, 2025</p>
               </div>
             </div>
 
