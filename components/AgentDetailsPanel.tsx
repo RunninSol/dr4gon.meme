@@ -102,7 +102,7 @@ export default function AgentDetailsPanel({ isOpen, onClose, data }: AgentDetail
               {/* TEE Verified Link */}
               <div className="bg-gradient-to-r from-green-50 to-emerald-50 border-2 border-green-300 rounded-lg p-4">
                 <a
-                  href="https://proof.t16z.com/reports/730b055e68f1d98e6d291f1d555b379215328b74e5ebb3b7a0f55c0adccdc83f"
+                  href="https://proof.t16z.com/reports/1f0808d6f55d281119d13ad8cff826c76456540461d7d215f349625cd2ec199b"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between group"
