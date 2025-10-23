@@ -40,11 +40,11 @@ function TreeCard({ data, isConnectable }: TreeCardProps) {
         <div className="px-6 py-4 bg-gradient-to-r from-red-50/80 to-orange-50/80 backdrop-blur-sm border-b border-red-200">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="w-14 h-14 rounded-full border-2 border-orange-500 bg-black flex items-center justify-center p-1 shadow-lg shadow-orange-500/30 hover:shadow-orange-500/50 transition-all duration-300 group">
+              <div className="w-14 h-14 rounded-full border-2 border-orange-500 bg-black flex items-center justify-center p-2 shadow-lg shadow-orange-500/30 hover:shadow-orange-500/50 transition-all duration-300 group overflow-hidden">
                 <img 
                   src="/images/dr4g0nlogo.png" 
                   alt="Dragon Logo" 
-                  className="w-full h-full object-contain transition-transform duration-500 ease-in-out group-hover:rotate-[360deg] scale-110 translate-y-0.5"
+                  className="w-full h-full object-contain transition-transform duration-500 ease-in-out group-hover:rotate-[360deg] scale-105 translate-y-0.5"
                 />
               </div>
               <div>
