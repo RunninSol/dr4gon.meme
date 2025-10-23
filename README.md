@@ -141,7 +141,7 @@ Private - All Rights Reserved
 ## 🔗 Links
 
 - [Four.meme](https://four.meme)
-- [Twitter/X](https://twitter.com/dr4gon)
+- [Twitter/X](https://twitter.com/dr4gondotmeme)
 - [Eliza Framework](https://www.elizaos.ai/)
 - [Phala Network](https://phala.com/)
 

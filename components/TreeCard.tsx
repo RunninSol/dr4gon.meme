@@ -52,7 +52,7 @@ function TreeCard({ data, isConnectable }: TreeCardProps) {
                   {data.title}
                 </h3>
                 <p className="text-sm text-gray-500 font-mono">
-                  {data.number || "#1"} • 10 months ago
+                  {data.number || "#1"} • 1 day ago
                 </p>
               </div>
             </div>
@@ -191,7 +191,7 @@ function TreeCard({ data, isConnectable }: TreeCardProps) {
               <span>FOUR.MEME</span>
             </a>
             <a 
-              href="https://twitter.com/dr4gon"
+              href="https://twitter.com/dr4gondotmeme"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 px-4 py-2 bg-gradient-to-r from-orange-50 to-red-50 text-red-600 border border-red-300 rounded-lg text-sm font-semibold hover:from-red-100 hover:to-orange-100 transition-colors cursor-pointer"

@@ -190,7 +190,7 @@ export default function Header() {
             
             {/* X Logo */}
             <a
-              href="https://twitter.com/dr4gon"
+              href="https://twitter.com/dr4gondotmeme"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-9 h-9 bg-red-900/40 hover:bg-red-800/60 rounded-lg transition-colors duration-200 border border-red-700/40"

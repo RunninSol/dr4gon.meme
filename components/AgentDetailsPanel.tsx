@@ -82,7 +82,7 @@ export default function AgentDetailsPanel({ isOpen, onClose, data }: AgentDetail
               <span>FOUR.MEME</span>
             </a>
             <a
-              href="https://twitter.com/dr4gon"
+              href="https://twitter.com/dr4gondotmeme"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r from-orange-50 to-red-50 text-red-600 border-2 border-red-300 rounded-xl text-sm font-semibold hover:from-red-100 hover:to-orange-100 transition-all hover:shadow-md"
