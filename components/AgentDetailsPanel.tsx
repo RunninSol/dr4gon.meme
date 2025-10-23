@@ -46,11 +46,11 @@ export default function AgentDetailsPanel({ isOpen, onClose, data }: AgentDetail
           {/* Agent Profile Card */}
           <div className="bg-gradient-to-br from-white/80 to-orange-50/80 border-2 border-red-200 rounded-xl p-5 shadow-lg">
             <div className="flex items-center space-x-4 mb-4">
-              <div className="w-16 h-16 rounded-full border-2 border-orange-500 bg-black flex items-center justify-center p-2 shadow-lg shadow-orange-500/30 group">
+              <div className="w-16 h-16 rounded-full border-2 border-orange-500 bg-black flex items-center justify-center p-1.5 shadow-lg shadow-orange-500/30 group">
                 <img 
-                  src="/images/pfpdr4gon.png" 
+                  src="/images/dr4g0nlogo.png" 
                   alt="Dragon Logo" 
-                  className="w-full h-full object-contain transition-transform duration-500 ease-in-out group-hover:rotate-[360deg]"
+                  className="w-full h-full object-contain transition-transform duration-500 ease-in-out group-hover:rotate-[360deg] scale-110 translate-y-0.5"
                 />
               </div>
               <div className="flex-1">
